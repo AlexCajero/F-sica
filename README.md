@@ -1,2 +1,2 @@
-# F-sica
+# Fisica
 Un portafolio académico
